@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Actividad Sem-2</string>
+    <string name="activity_2">Confirmacion de Datos</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellido">Apellidos</string>
+    <string name="fechaTI">Fecha Nacimiento (dd_mm_yyyy): </string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email ::: Contacto@contacto.com !</string>
+    <string name="Descripcion">Descripcion del Contacto</string>
+    <string name="DisplayDateFin">Dia_mes_an;o</string>
+
+    <string name="fecha">Fecha</string>
+    <string name="tvnombreInd">Nombre:</string>
+    <string name="tvapellidoInd">Apellido:</string>
+    <string name="tvfechaInd">Fecha Nac:</string>
+    <string name="tvtelefonoInd">Telefono:</string>
+    <string name="tvemailInd">Email:</string>
+    <string name="tvdescripcionInd">Descripcion:</string>
+    <string name="temp">Temp</string>
+
+    <string name="btnEditar">Editar Datos</string>
+    <string name="btnSig">SIGUIENTE</string>
+
+</resources>
